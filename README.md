@@ -14,6 +14,8 @@
 </p>
 <p align="center"><b>Run Ubuntu GUI on your termux with much features.</b></p>
 
+> This is a modified version for integration with VRCode, you should not use it directly.
+
 ### Features
 
 - Fixed Audio Output
